@@ -1,0 +1,5 @@
+1. install python
+2. install PIP
+3. install virtualenv
+4. setup a new virtualenv
+5. install django using pip from the virtualenv
